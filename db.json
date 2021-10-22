@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "name": "Kuba",
+      "surname": "Ismailov",
+      "login": "ismailovk2000",
+      "status": "yes",
+      "id": 4
+    },
+    {
+      "name": "Beknazar",
+      "surname": "Omurbek",
+      "login": "badjo2",
+      "status": "yes",
+      "id": 5
+    },
+    {
+      "name": "Dayana",
+      "surname": "Dzhanuzakova",
+      "login": "skst88",
+      "status": "no",
+      "id": 1
+    },
+    {
+      "name": "Nurlan",
+      "surname": "Abdullaev",
+      "login": "nabs0",
+      "status": "yes",
+      "id": 2
+    },
+    {
+      "name": "Adelina",
+      "surname": "B.",
+      "login": "kayaamoto",
+      "status": "no",
+      "id": 3
+    },
+    {
+      "name": "Kuba",
+      "surname": "Ismailov",
+      "login": "ismailovk2000",
+      "status": "yes",
+      "id": 4
+    },
+    {
+      "name": "Beknazar",
+      "surname": "Omurbek",
+      "login": "badjo2",
+      "status": "yes",
+      "id": 5
+    },
+    {
+      "name": "Dayana",
+      "surname": "Dzhanuzakova",
+      "login": "skst88",
+      "status": "no",
+      "id": 1
+    },
+    {
+      "name": "Nurlan",
+      "surname": "Abdullaev",
+      "login": "nabs0",
+      "status": "yes",
+      "id": 2
+    },
+    {
+      "name": "Adelina",
+      "surname": "B.",
+      "login": "kayaamoto",
+      "status": "no",
+      "id": 3
+    },
+    {
+      "name": "Kuba",
+      "surname": "Ismailov",
+      "login": "ismailovk2000",
+      "status": "yes",
+      "id": 4
+    },
+    {
+      "name": "Beknazar",
+      "surname": "Omurbek",
+      "login": "badjo2",
+      "status": "yes",
+      "id": 5
+    },
+    {
+      "name": "Dayana",
+      "surname": "Dzhanuzakova",
+      "login": "skst88",
+      "status": "no",
+      "id": 1
+    },
+    {
+      "name": "Nurlan",
+      "surname": "Abdullaev",
+      "login": "nabs0",
+      "status": "yes",
+      "id": 2
+    },
+    {
+      "name": "Adelina",
+      "surname": "B.",
+      "login": "kayaamoto",
+      "status": "no",
+      "id": 3
+    },
+    {
+      "name": "Kuba",
+      "surname": "Ismailov",
+      "login": "ismailovk2000",
+      "status": "yes",
+      "id": 4
+    },
+    {
+      "name": "Beknazar",
+      "surname": "Omurbek",
+      "login": "badjo2",
+      "status": "yes",
+      "id": 5
+    }
+  ]
+}
