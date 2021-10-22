@@ -83,7 +83,7 @@ async function render(url) {
     <a href="#" ">${item.login}</a><br />
       <div class="input-group mb-3">
   <input type="text" class="form-control input" placeholder="Оставьте комментарий " aria-label="Recipient's username" aria-describedby="button-addon2">
-  <button class="sub">Отправить</button>
+  <button class="btn sub" style="background-color: pink">Отправить</button>
   
 </div>
 <h3 class="h3" id="h3-${index}"></h3>
